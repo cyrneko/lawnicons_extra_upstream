@@ -6,3 +6,9 @@ proper usage:
 ```
 git clone https://github.com/TGRush/lawnicons_extra_upstream.git --recursive
 ```
+
+Then do this:
+```
+chmod +x prep.sh && ./prep.sh
+```
+give it a second aaand....get building as usual (run ./gradlew assembleDebug in Android Studio OR in Terminal with proper SDK path set)
