@@ -4,7 +4,8 @@ awk -v n=1 'NR==FNR{total=NR;next} FNR==total-n+1{exit} 1' app/src/main/res/xml/
 cat patches.xml >> app/src/main/res/xml/grayscale_icon_map.xml
 echo "added strings to grayscale_icon_map.xml"
 echo "adding VectorGraphics or whatever they're called..."
-git clone https://github.com/TGRush/lawnicons_extra_upstream.git -b Vectors app/src/main/res/drawable/vectors
-mv "app/src/main/res/drawable/vectors/*" "app/src/main/res/drawable/"
-rm -rf app/src/main/res/drawable/vectors
+/usr/bin/git clone https://github.com/TGRush/lawnicons_extra_upstream.git -b Vectors --progress 
+mv ./lawnicons_extra_upstream/* ./app/src/main/res/drawable/
+rm -rf ./lawnicons_extra_upstream
+rm -rf "./app/src/main/res/drawable/.git"
 echo "try building now :)"
