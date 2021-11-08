@@ -8,5 +8,7 @@ echo "adding VectorGraphics or whatever they're called.."
 mv ./vectors/* ./lawnicons/app/src/main/res/drawable/
 rm -rf "./lawnicons/app/src/main/res/drawable/.git"
 echo "try building normally now :>"
+echo "to do that, simply run ./gradlew assembleDebug in the lawnicons directory, make sure ANDROID_SDK_ROOT is set to the right location!"
+echo "if you're too lazy to set that up, simply running the command in Android Studio's Terminal with java 11 or above also works"
 
 # i need to stop making small stupid mistakes...
