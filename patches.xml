@@ -4,7 +4,7 @@
     <icon drawable="@drawable/fennec_fdroid" package="org.mozilla.fennec_fdroid" name="Fennec" />
     <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
     <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
-    <icon drawable="@drawable/pubgm" package="com.tencent.ig" name="PUBG" /> <!--i can't believe I'm seriously doing this, tho this Icon was on request-->
-    <icon drawable="@drawable/pubgm" package="com.pubg.imobile" name="BGMI" />
+    <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" /> <!--i can't believe I'm seriously doing this, tho this Icon was on request-->
+    <icon drawable="@drawable/pubg" package="com.pubg.imobile" name="BGMI" />
     <icon drawable="@drawable/files" package="com.zhanghai.android.files" name="Files" />
 </icons>
