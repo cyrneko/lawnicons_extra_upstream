@@ -3,4 +3,5 @@
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
     <icon drawable="@drawable/fennec_fdroid" package="org.mozilla.fennec_fdroid" name="Fennec" />
     <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
+    <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
 </icons>
