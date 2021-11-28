@@ -6,5 +6,13 @@
     <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" /> <!--i can't believe I'm seriously doing this, tho this Icon was on request-->
     <icon drawable="@drawable/pubg" package="com.pubg.imobile" name="BGMI" />
-    <icon drawable="@drawable/files" package="com.zhanghai.android.files" name="Files" />
+    <icon drawable="@drawable/files" package="me.zhanghai.android.files" name="Files" />
+    <icon drawable="@drawable/adaway" package"org.adaway" name="AdAway" />
+    <icon drawable="@drawable/brave" package="com.brave.browser" name="Brave" />
+    <icon drawable="@drawable/protonvpn" package="ch.protonvpn.android" name="ProtonVPN" />
+    <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="ProtonMail" />
+    <icon drawable="@drawable/etar" package="ws.xsoh.etar" name="Etar" />
+    <icon drawable="@drawable/disney" package="com.disney.disneyplus" name="Disney+" />
+<!--    <icon drawable="@drawable/chrome" package=""  WIP bcuz idk all package names on this planet-->
+    <icon drawable="@drawable/dialer" package="com.android.dialer" name="Phone"
 </icons>
