@@ -7,5 +7,5 @@
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" /> <!--i can't believe I'm seriously doing this, tho this Icon was on request-->
     <icon drawable="@drawable/pubg" package="com.pubg.imobile" name="BGMI" />
     <icon drawable="@drawable/files" package="com.zhanghai.android.files" name="Files" />
-    <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram X"
+    <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram X" />
 </icons>
